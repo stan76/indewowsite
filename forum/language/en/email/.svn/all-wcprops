@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email
+END
+user_reactivate_account.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/user_reactivate_account.txt
+END
+group_request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/group_request.txt
+END
+topic_notify.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/topic_notify.txt
+END
+admin_send_email.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/admin_send_email.txt
+END
+user_welcome_inactive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/user_welcome_inactive.txt
+END
+topic_disapproved.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/topic_disapproved.txt
+END
+user_activate_passwd.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/user_activate_passwd.txt
+END
+email_notify.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/email_notify.txt
+END
+user_activate_inactive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/user_activate_inactive.txt
+END
+profile_send_email.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/profile_send_email.txt
+END
+forum_notify.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/forum_notify.txt
+END
+post_disapproved.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/post_disapproved.txt
+END
+post_approved.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/post_approved.txt
+END
+user_welcome.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/user_welcome.txt
+END
+group_approved.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/group_approved.txt
+END
+profile_send_im.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/profile_send_im.txt
+END
+report_deleted.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/report_deleted.txt
+END
+report_closed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/report_closed.txt
+END
+admin_activate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/admin_activate.txt
+END
+group_added.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/group_added.txt
+END
+topic_approved.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/topic_approved.txt
+END
+privmsg_notify.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/privmsg_notify.txt
+END
+installed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/installed.txt
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/index.htm
+END
+newtopic_notify.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/newtopic_notify.txt
+END
+coppa_resend_inactive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/coppa_resend_inactive.txt
+END
+admin_welcome_inactive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/admin_welcome_inactive.txt
+END
+admin_welcome_activated.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/admin_welcome_activated.txt
+END
+pm_report_deleted.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/pm_report_deleted.txt
+END
+user_remind_inactive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/user_remind_inactive.txt
+END
+user_activate.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/user_activate.txt
+END
+coppa_welcome_inactive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/coppa_welcome_inactive.txt
+END
+user_resend_inactive.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/user_resend_inactive.txt
+END
+pm_report_closed.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/26/forum/language/en/email/pm_report_closed.txt
+END

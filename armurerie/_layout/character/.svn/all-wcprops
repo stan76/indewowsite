@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/em-armory/!svn/ver/19/_layout/character
+END
+reputation.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-armory/!svn/ver/19/_layout/character/reputation.xsl
+END
+statistics.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-armory/!svn/ver/19/_layout/character/statistics.xsl
+END
+talents.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/em-armory/!svn/ver/19/_layout/character/talents.xsl
+END
+achievements.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/em-armory/!svn/ver/19/_layout/character/achievements.xsl
+END
+embed.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/em-armory/!svn/ver/19/_layout/character/embed.xsl
+END
+arenateams.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-armory/!svn/ver/19/_layout/character/arenateams.xsl
+END
+feed.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/em-armory/!svn/ver/19/_layout/character/feed.xsl
+END
+statistics-async.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/em-armory/!svn/ver/19/_layout/character/statistics-async.xsl
+END
+achievements-async.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/em-armory/!svn/ver/19/_layout/character/achievements-async.xsl
+END
+header.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/em-armory/!svn/ver/19/_layout/character/header.xsl
+END
+sheet.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/em-armory/!svn/ver/19/_layout/character/sheet.xsl
+END
+calendar.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-armory/!svn/ver/19/_layout/character/calendar.xsl
+END

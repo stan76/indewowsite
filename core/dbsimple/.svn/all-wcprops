@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/em-mangosweb/!svn/ver/23/core/dbsimple
+END
+Generic.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/em-mangosweb/!svn/ver/23/core/dbsimple/Generic.php
+END
+Ibase.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/em-mangosweb/!svn/ver/23/core/dbsimple/Ibase.php
+END
+Postgresql.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/em-mangosweb/!svn/ver/23/core/dbsimple/Postgresql.php
+END
+Mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/em-mangosweb/!svn/ver/23/core/dbsimple/Mysql.php
+END

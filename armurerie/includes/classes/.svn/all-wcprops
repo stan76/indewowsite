@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/em-armory/!svn/ver/20/includes/classes
+END
+class.config.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-armory/!svn/ver/20/includes/classes/class.config.php
+END
+class.search.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-armory/!svn/ver/20/includes/classes/class.search.php
+END
+class.debug.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-armory/!svn/ver/20/includes/classes/class.debug.php
+END
+class.guilds.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-armory/!svn/ver/20/includes/classes/class.guilds.php
+END
+class.connector.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/em-armory/!svn/ver/20/includes/classes/class.connector.php
+END
+class.achievements.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/em-armory/!svn/ver/20/includes/classes/class.achievements.php
+END
+class.xmlhandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/em-armory/!svn/ver/20/includes/classes/class.xmlhandler.php
+END
+class.characters.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/em-armory/!svn/ver/20/includes/classes/class.characters.php
+END
+class.arenateams.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/em-armory/!svn/ver/20/includes/classes/class.arenateams.php
+END
+class.utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-armory/!svn/ver/20/includes/classes/class.utils.php
+END
+class.items.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-armory/!svn/ver/20/includes/classes/class.items.php
+END
+class.dbhandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/em-armory/!svn/ver/20/includes/classes/class.dbhandler.php
+END
+class.mangos.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-armory/!svn/ver/20/includes/classes/class.mangos.php
+END

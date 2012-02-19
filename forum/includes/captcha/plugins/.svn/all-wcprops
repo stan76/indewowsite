@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/plugins
+END
+phpbb_captcha_qa_plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/plugins/phpbb_captcha_qa_plugin.php
+END
+phpbb_captcha_nogd_plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/plugins/phpbb_captcha_nogd_plugin.php
+END
+phpbb_recaptcha_plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/plugins/phpbb_recaptcha_plugin.php
+END
+captcha_abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/plugins/captcha_abstract.php
+END
+phpbb_captcha_gd_plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/plugins/phpbb_captcha_gd_plugin.php
+END
+phpbb_captcha_gd_wave_plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/plugins/phpbb_captcha_gd_wave_plugin.php
+END

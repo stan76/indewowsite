@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/em-armory/!svn/ver/19/_layout/items
+END
+tooltip.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/em-armory/!svn/ver/19/_layout/items/tooltip.xsl
+END
+info.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/em-armory/!svn/ver/19/_layout/items/info.xsl
+END
+subtype.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/em-armory/!svn/ver/19/_layout/items/subtype.xsl
+END
+utils.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/em-armory/!svn/ver/19/_layout/items/utils.xsl
+END
+filters.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/em-armory/!svn/ver/19/_layout/items/filters.xsl
+END

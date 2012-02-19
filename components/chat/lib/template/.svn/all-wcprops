@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/template
+END
+logs.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/template/logs.html
+END
+loggedIn.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/template/loggedIn.html
+END
+loggedOut.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/template/loggedOut.html
+END
+shoutbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/template/shoutbox.html
+END

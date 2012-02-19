@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib
+END
+custom.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/custom.php
+END
+classes.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/classes.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/.htaccess
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/config.php
+END

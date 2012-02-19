@@ -1,0 +1,43 @@
+<br />
+<div style="width: 659px; height: 29px; background: url('templates/wrath/images/content-parting.jpg') no-repeat;"><div style="padding: 2px 0px 0px 23px;"><font style="font-family: 'Times New Roman', Times, serif; color: #640909;"><h2>R&egrave;glement</h2></font></div></div><div style="background: url('templates/wrath/images/light.jpg') repeat; border-width: 1px; border-color: #000000; border-bottom-style: solid; margin: 0px 0px 5px 0px"><div class="contentdiv"><b>Voici le r&egrave;glement de notre serveur:</b>
+<br /><br />
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+    <td width="12"><img src="templates/wrath/images/metalborder-top-left.gif" height="12" width="12" alt=""/></td>
+    <td style="background:url('templates/wrath/images/metalborder-top.gif');"></td>
+    <td width="12"><img src="templates/wrath/images/metalborder-top-right.gif" height="12" width="12" alt=""/></td>
+</tr>
+<tr>
+    <td style="background:url('templates/wrath/images/metalborder-left.gif');"></td>
+    <td>
+<div style="border: 0px dotted #1E4378;margin:4px;padding:6px 9px;text-align:left;font-weight:bold;">
+
+<br />
+<b><font color=blue size=3>Interdictions aux joueurs :</font>
+<ul>
+<div style="color: red;"><li>D'utiliser des logiciels de triche.</li></div>
+<div style="color: red;"><li>D'&ecirc;tre vulgaire.</li></div>
+<div style="color: red;"><li>De demander de l'or aux MJs.</li></div>
+<div style="color: red;"><li>De demander des objets aux MJs (sauf s'il s'agit d'un objet de qu&ecirc;te non fonctionnel).</li></div>
+</ul>
+<font color=blue size=3>Les joueurs doivent :</font>
+<ul>
+<div style="color: green;"><li>Respecter la communaut&eacute;.</li></div>
+<div style="color: green;"><li>Faire un rapport des bugs rencontr&eacute;s.</li></div>
+<div style="color: green;"><li>Donner de leur temps pour faire vivre le forum.</li></div>
+</ul></b>
+
+</div>
+<br />
+        </td>
+        <td style="background:url('templates/wrath/images/metalborder-right.gif');"></td>
+    </tr>
+    <tr>
+        <td><img src="templates/wrath/images/metalborder-bot-left.gif" height="11" width="12" alt=""/></td>
+        <td style="background:url('templates/wrath/images/metalborder-bot.gif');"></td>
+        <td><img src="templates/wrath/images/metalborder-bot-right.gif" height="11" width="12" alt=""/></td>
+    </tr>
+    </tbody>
+</table>
+</div></div>

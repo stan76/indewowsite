@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/em-mangosweb/!svn/ver/26/forum/includes/auth
+END
+auth_ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/em-mangosweb/!svn/ver/26/forum/includes/auth/auth_ldap.php
+END
+auth_apache.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/em-mangosweb/!svn/ver/26/forum/includes/auth/auth_apache.php
+END
+auth_db.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/em-mangosweb/!svn/ver/26/forum/includes/auth/auth_db.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-mangosweb/!svn/ver/26/forum/includes/auth/index.htm
+END

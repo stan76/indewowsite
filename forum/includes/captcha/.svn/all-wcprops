@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha
+END
+captcha_factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/captcha_factory.php
+END
+captcha_gd.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/captcha_gd.php
+END
+captcha_gd_wave.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/captcha_gd_wave.php
+END
+captcha_non_gd.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/26/forum/includes/captcha/captcha_non_gd.php
+END

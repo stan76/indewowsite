@@ -1,0 +1,45 @@
+<br>
+<div style="width: 659px; height: 29px; background: url('templates/wrath/images/content-parting.jpg') no-repeat;"><div style="padding: 2px 0px 0px 23px;"><font style="font-family: 'Times New Roman', Times, serif; color: #640909;"><h2>Nous rejoindre ?</h2></font></div></div><div style="background: url('templates/wrath/images/light.jpg') repeat; border-width: 1px; border-color: #000000; border-bottom-style: solid; margin: 0px 0px 5px 0px"><div class="contentdiv"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+    <td width="12"><img src="templates/wrath/images/metalborder-top-left.gif" height="12" width="12" alt=""/></td>
+    <td style="background:url('templates/wrath/images/metalborder-top.gif');"></td>
+    <td width="12"><img src="templates/wrath/images/metalborder-top-right.gif" height="12" width="12" alt=""/></td>
+</tr>
+<tr>
+    <td style="background:url('templates/wrath/images/metalborder-left.gif');"></td>
+    <td>
+<br />
+<div style="border: 0px dotted #1E4378;margin:4px;padding:6px 9px;text-align:left;font-weight:bold;">
+<font color=green size=3><u>Premi&egrave;re &eacute;tape:</u></font>
+<ul>
+<li>Installer World Of Warcraft version <font color=orange>Classique</font>.</li>
+<li>Installer World Of Warcraft version <font color=red>Burning Crusade</font>.</li>
+<li>Installer World Of Warcraft version <font color=blue>Wrath of the Lich King</font>.</li>
+</ul>
+<font color=green size=3><u>Deuxi&egrave;me &eacute;tape:</u></font>
+<ul>
+<li>Faire les mises &agrave; jour jusqu'&agrave; la version <font color=red>3.3.5a</font> de World Of Warcraft.</li>
+<li>Ensuite vous devez modifiez votre fichier "Data\frFR\realmlist.wtf" par "Set realmlist 127.0.0.1" !</li>
+</ul>
+<font color=green size=3><u>Troisi&egrave;me &eacute;tape:</u></font>
+<ul>
+<li>Cr&eacute;ez-vous un compte <a href="../mangosweb/index.php?n=account&sub=register">ici</a>.</li>
+<li>Veuillez lire le <a href="./mangosweb/index.php?n=server&sub=rules">r&egrave;glement</a> avant de jou&eacute; sur le serveur.</li>
+<li>Et pour termin&eacute;, sur cette <a href="/mangosweb/index.php?n=community&sub=vote">page</a> vous aurez acc&egrave;s au syst&egrave;me de vote et tout ce qui en suis !</li>
+<li>Bon jeu &agrave; vous !</li>
+</ul>
+
+<font color=red size=3>[T&eacute;l&eacute;chargement]</font><ul><li>Client World of Warcraft: <a href="http://www.wow-europe.com/shared/downloads/InstallWoW_frFR/InstallWoW.exe">InstallWoW.exe</a></li></ul></div>
+<br />
+        </td>
+        <td style="background:url('templates/wrath/images/metalborder-right.gif');"></td>
+    </tr>
+    <tr>
+        <td><img src="templates/wrath/images/metalborder-bot-left.gif" height="11" width="12" alt=""/></td>
+        <td style="background:url('templates/wrath/images/metalborder-bot.gif');"></td>
+        <td><img src="templates/wrath/images/metalborder-bot-right.gif" height="11" width="12" alt=""/></td>
+    </tr>
+    </tbody>
+</table>
+</div></div>

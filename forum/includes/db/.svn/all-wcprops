@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db
+END
+mysqli.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/mysqli.php
+END
+mssql.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/mssql.php
+END
+sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/sqlite.php
+END
+dbal.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/dbal.php
+END
+db_tools.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/db_tools.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/mysql.php
+END
+oracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/oracle.php
+END
+firebird.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/firebird.php
+END
+mssql_odbc.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/mssql_odbc.php
+END
+postgres.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/postgres.php
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-mangosweb/!svn/ver/26/forum/includes/db/index.htm
+END

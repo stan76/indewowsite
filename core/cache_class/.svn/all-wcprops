@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/em-mangosweb/!svn/ver/23/core/cache_class
+END
+gCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-mangosweb/!svn/ver/23/core/cache_class/gCache.php
+END
+test1.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/em-mangosweb/!svn/ver/23/core/cache_class/test1.php
+END
+test2.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/em-mangosweb/!svn/ver/23/core/cache_class/test2.php
+END
+gVars.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/em-mangosweb/!svn/ver/23/core/cache_class/gVars.php
+END
+safeIO.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-mangosweb/!svn/ver/23/core/cache_class/safeIO.php
+END

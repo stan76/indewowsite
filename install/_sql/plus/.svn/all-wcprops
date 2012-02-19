@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/em-mangosweb/!svn/ver/26/install/_sql/plus
+END
+mangosweb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/em-mangosweb/!svn/ver/26/install/_sql/plus/mangosweb.sql
+END
+systeme_vote.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/em-mangosweb/!svn/ver/26/install/_sql/plus/systeme_vote.sql
+END
+forum.sql
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-mangosweb/!svn/ver/26/install/_sql/plus/forum.sql
+END

@@ -1,0 +1,150 @@
+<?xml version="1.0" standalone="yes"?>
+<configs>
+   <!--
+      Fichier config de MangosWeb
+   -->
+
+    <!--
+    *  Configurations generale
+    -->
+    <generic>
+		<site_title>MangosWeb</site_title>
+		<site_email>misoshy@gmail.com</site_email>
+		<site_cookie>ToS</site_cookie>
+		<site_encoding>utf-8</site_encoding>
+        <template>offlike</template>
+		<default_template>wrath</default_template>
+        <default_component>frontpage</default_component>
+        <default_lang>fr</default_lang>
+        <lang>fr</lang>
+        <available_languages>fr</available_languages>
+        <display_banner_flash>1</display_banner_flash>
+		<banner_display>1</banner_display>
+        <use_alternate_mangosdb_port>0</use_alternate_mangosdb_port>
+        <use_local_ip_port_test>0</use_local_ip_port_test>
+        <account_key_retain_length>1209600</account_key_retain_length>
+        <cache_expiretime>200</cache_expiretime>
+
+       <!-- Partie en ligne -->
+        <site_register>1</site_register>                   
+        <change_email>1</change_email>                    
+        <change_pass>1</change_pass>                        
+		<change_template>1</change_template>              		
+        <max_accounts_per_ip>0</max_accounts_per_ip>
+		<onlinelist_on>1</onlinelist_on>
+        <users_per_page>50</users_per_page>
+        <smiles_path>images/smiles/</smiles_path>
+        <max_avatar_file>102400</max_avatar_file>
+        <max_avatar_size>64x64</max_avatar_size>
+        <ts_display>1</ts_display>
+        <ts_ip>your.teamspeakserver.com</ts_ip>
+        <ts_port_udp>8767</ts_port_udp>
+    </generic>
+
+    <generic_values>
+        <!-- Configurations royaume-->
+        <realm_info>
+            <default_realm_id>1</default_realm_id>
+            <multirealm>0</multirealm>
+        </realm_info>
+
+        <!-- Configurations frontpage -->
+        <news>
+            <items_per_page>10</items_per_page>
+            <defaultOpen>3</defaultOpen>
+        </news>
+
+        <account_registrer>
+            <secret_questions_input>0</secret_questions_input>
+        </account_registrer>
+    </generic_values>
+	
+		<!-- Questions secrete -->
+    <secret_questions>
+        <question>What is your mother's maiden name?</question>
+        <question>What street did you grow up on?</question>
+        <question>What is the name of your first pet?</question>
+        <question>What is your favorite color?</question>
+        <question>What is your father's maiden name?</question>
+    </secret_questions>
+	
+	<!-- Outils personnage -->
+	<character_tools>
+		<rename>1</rename>
+		<re_customization>1</re_customization>
+		<race_changer>1</race_changer>
+		<faction_change>1</faction_change>				 
+		<rename_points>10</rename_points>            
+		<customization_points>25</customization_points>  
+		<faction_points>50</faction_points>				  
+	</character_tools>
+
+    <components>
+
+        <right_section>
+            <quicklinks>1</quicklinks>
+            <server_information>1</server_information>
+            <newbguide>1</newbguide>
+            <hitcounter>0</hitcounter>
+        </right_section>
+
+        <!-- Informations serveur -->
+        <server_information>
+            <realm_status>1</realm_status>			
+            <server_ip>1</server_ip>				
+            <type>1</type>							
+            <language>1</language>					
+            <population>1</population>				
+            <accounts>1</accounts>					
+            <characters>1</characters>				
+            <online>1</online>
+        </server_information>
+
+		<!-- Section gauche -->
+        <left_section>
+		
+            <!-- Communaute  -->
+            <Teamspeak>1</Teamspeak>
+			<vote>1</vote>
+
+            <!-- Interactif  -->
+            <Realms_status>1</Realms_status>
+            <Players_online>1</Players_online>
+            <Honor>1</Honor>
+            <Characters>1</Characters>
+            <Userlist>1</Userlist>
+            <Statistic>1</Statistic>
+            <Armory>1</Armory>
+
+            <!-- Support  -->
+            <Commands>1</Commands>
+            <Bug_tracker>1</Bug_tracker>
+            <In_Game_Support>1</In_Game_Support>
+            <Online_GMs>1</Online_GMs>
+
+            <!-- Guide du jeu -->
+            <How_to_play>1</How_to_play>
+			<wow_bc>1</wow_bc>
+			<wow_wrath>1</wow_wrath>
+			<wow_cata>1</wow_cata>
+
+            <!-- Compte -->
+			<Character_tools>1</Character_tools>
+        </left_section>
+
+    </components>
+	
+    <!-- Templates -->
+    <templates>
+        <template>wrath</template>
+    </templates>
+
+    <!-- Partie dynamique de MangosWeb -->
+    <temp>
+        <site_href>/mangosweb/</site_href>
+        <site_domain>127.0.0.1:3380</site_domain>
+        <email_href>127.0.0.1:3380</email_href>
+        <base_href>http://127.0.0.1:3380/mangosweb/</base_href>
+    </temp>
+
+</configs>

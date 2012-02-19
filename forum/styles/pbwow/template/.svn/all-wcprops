@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template
+END
+posting_pm_layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_pm_layout.html
+END
+overall_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/overall_header.html
+END
+posting_layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_layout.html
+END
+mcp_queue.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_queue.html
+END
+faq_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/faq_body.html
+END
+ucp_zebra_friends.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_zebra_friends.html
+END
+login_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/login_body.html
+END
+viewtopic_print.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/viewtopic_print.html
+END
+search_results.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/search_results.html
+END
+mcp_forum.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_forum.html
+END
+mcp_front.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_front.html
+END
+report_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/report_body.html
+END
+quickreply_editor.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/quickreply_editor.html
+END
+ucp_main_drafts.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_main_drafts.html
+END
+posting_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_body.html
+END
+mcp_logs.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_logs.html
+END
+posting_review.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_review.html
+END
+mcp_move.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_move.html
+END
+ucp_profile_avatar.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_profile_avatar.html
+END
+pbwow_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/pbwow_header.html
+END
+template.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/template.cfg
+END
+captcha_default.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/captcha_default.html
+END
+captcha_recaptcha.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/captcha_recaptcha.html
+END
+memberlist_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/memberlist_body.html
+END
+custom_profile_fields.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/custom_profile_fields.html
+END
+login_forum.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/login_forum.html
+END
+styleswitcher.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/styleswitcher.js
+END
+ucp_attachments.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_attachments.html
+END
+index_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/index_body.html
+END
+captcha_qa.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/captcha_qa.html
+END
+jumpbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/jumpbox.html
+END
+mcp_notes_user.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_notes_user.html
+END
+memberlist_im.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/memberlist_im.html
+END
+ucp_profile_signature.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_profile_signature.html
+END
+posting_editor.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_editor.html
+END
+ucp_prefs_personal.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_prefs_personal.html
+END
+index.htm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/index.htm
+END
+ucp_prefs_post.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_prefs_post.html
+END
+viewonline_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/viewonline_body.html
+END
+ucp_pm_viewmessage_print.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_pm_viewmessage_print.html
+END
+mcp_ban.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_ban.html
+END
+mcp_notes_front.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_notes_front.html
+END
+forumlist_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/forumlist_body.html
+END
+posting_topic_review.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_topic_review.html
+END
+ucp_main_bookmarks.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_main_bookmarks.html
+END
+ucp_pm_history.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_pm_history.html
+END
+pbwow_pagination.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/pbwow_pagination.html
+END
+simple_footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/simple_footer.html
+END
+posting_smilies.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_smilies.html
+END
+ucp_pm_viewfolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_pm_viewfolder.html
+END
+mcp_warn_post.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_warn_post.html
+END
+mcp_topic.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_topic.html
+END
+ucp_prefs_view.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_prefs_view.html
+END
+search_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/search_body.html
+END
+ucp_pm_viewmessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_pm_viewmessage.html
+END
+pbwow_jumpbox_2.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/pbwow_jumpbox_2.html
+END
+forum_fn.js
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/forum_fn.js
+END
+mcp_post.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_post.html
+END
+ucp_zebra_foes.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_zebra_foes.html
+END
+viewtopic_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/viewtopic_body.html
+END
+memberlist_search.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/memberlist_search.html
+END
+mcp_whois.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_whois.html
+END
+ucp_register.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_register.html
+END
+mcp_footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_footer.html
+END
+mcp_viewlogs.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_viewlogs.html
+END
+editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/editor.js
+END
+ucp_main_subscribed.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_main_subscribed.html
+END
+viewforum_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/viewforum_body.html
+END
+posting_buttons.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_buttons.html
+END
+simple_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/simple_header.html
+END
+memberlist_leaders.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/memberlist_leaders.html
+END
+ucp_profile_profile_info.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_profile_profile_info.html
+END
+ucp_main_front.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_main_front.html
+END
+ucp_footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_footer.html
+END
+ucp_pm_message_footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_pm_message_footer.html
+END
+ucp_profile_reg_details.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_profile_reg_details.html
+END
+memberlist_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/memberlist_email.html
+END
+mcp_approve.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_approve.html
+END
+mcp_warn_front.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_warn_front.html
+END
+bbcode.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/bbcode.html
+END
+ucp_agreement.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_agreement.html
+END
+overall_footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/overall_footer.html
+END
+drafts.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/drafts.html
+END
+mcp_message.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_message.html
+END
+posting_preview.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_preview.html
+END
+posting_attach_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_attach_body.html
+END
+ucp_remind.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_remind.html
+END
+posting_poll_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/posting_poll_body.html
+END
+mcp_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_header.html
+END
+ucp_resend.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_resend.html
+END
+attachment.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/attachment.html
+END
+viewonline_whois.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/viewonline_whois.html
+END
+memberlist_view.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/memberlist_view.html
+END
+mcp_reports.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_reports.html
+END
+ucp_groups_manage.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_groups_manage.html
+END
+ucp_pm_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_pm_options.html
+END
+ucp_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_header.html
+END
+ucp_pm_message_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_pm_message_header.html
+END
+ucp_avatar_options.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_avatar_options.html
+END
+message_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/message_body.html
+END
+mcp_warn_list.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_warn_list.html
+END
+ucp_groups_membership.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_groups_membership.html
+END
+pbwow_jumpbox.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/pbwow_jumpbox.html
+END
+mcp_warn_user.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/mcp_warn_user.html
+END
+ucp_pm_popup.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/ucp_pm_popup.html
+END
+confirm_body.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/em-mangosweb/!svn/ver/26/forum/styles/pbwow/template/confirm_body.html
+END

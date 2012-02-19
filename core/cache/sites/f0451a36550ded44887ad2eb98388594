@@ -1,0 +1,56 @@
+<br>
+<div style="width: 659px; height: 29px; background: url('templates/wrath/images/content-parting.jpg') no-repeat;"><div style="padding: 2px 0px 0px 23px;"><font style="font-family: 'Times New Roman', Times, serif; color: #640909;"><h2>Serveur Teamspeak</h2></font></div></div><div style="background: url('templates/wrath/images/light.jpg') repeat; border-width: 1px; border-color: #000000; border-bottom-style: solid; margin: 0px 0px 5px 0px"><div class="contentdiv"><style type="text/css">
+#teamspeakdisplay  img {
+    border: 0px;
+}
+#teamspeakdisplay span {
+    font: 9pt arial, verdana,helvetica;
+    padding: 0px;
+    white-space: nowrap;
+    vertical-align: top;
+}
+#teamspeakdisplay span.teamspeakserver {
+    padding-left: 3px;
+    font-weight: bold;
+}
+#teamspeakdisplay span.teamspeakchannel {
+    padding-left: 3px;
+}
+#teamspeakdisplay span.teamspeaksubchannel {
+    padding-left: 3px;
+}
+#teamspeakdisplay span.teamspeakplayer {
+    padding-left: 3px;
+}
+#teamspeakdisplay a.teamspeakserver {
+    font: 9pt arial, verdana,helvetica;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+}
+#teamspeakdisplay a.teamspeakserver:hover {
+    color: #000066;
+}
+#teamspeakdisplay a.teamspeakchannel {
+    font: 9pt arial, verdana,helvetica;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+}
+#teamspeakdisplay a.teamspeakchannel:hover {
+    color: #000066;
+}
+#teamspeakdisplay a.teamspeaksubchannel {
+    font: 9pt arial, verdana,helvetica;
+    font-weight: bold;
+    text-decoration: none;
+    color: #000000;
+}
+#teamspeakdisplay a.teamspeaksubchannel:hover {
+    color: #000066;
+}
+</style>
+<div id="teamspeakdisplay">
+<img src="components/community/teamspeakdisplay/teamspeak_offline.png" alt="" title="Server address: your.teamspeakserver.com, Error: could not connect to query port"><span class="teamspeakserver" title="Server address: your.teamspeakserver.com, Error: could not connect to query port">Serveur hors-ligne</span><br/>
+</div>
+</div></div>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><tabGroups>
+	<tabGroup id="character">
+		<tab href="character-sheet.php" id="character" key="armory.tabs.characterSheet">
+			<subTab href="character-sheet.php" id="profile" key="armory.tabs.profile"/>
+			<subTab href="character-talents.php" id="talents" key="armory.tabs.talents_and_glyphs"/>
+			<subTab href="character-reputation.php" id="reputation" key="armory.tabs.reputation"/>
+            <subTab href="character-calendar.php" id="calendar" key="armory.tabs.calendar"/>
+			<subTab href="character-achievements.php" id="achievements" key="armory.tabs.achievements"/>
+			<subTab href="character-statistics.php" id="statistics" key="armory.tabs.statistics"/>
+			<subTab href="character-arenateams.php" id="arena" key="armory.labels.arena"/>
+			<subTab href="character-feed.php" id="feed" key="armory.tabs.feed"/>
+		</tab>
+		<tab href="guild-info.php" id="guild" key="armory.tabs.guild">
+			<subTab href="guild-info.php" id="guildRoster" key="armory.tabs.guildRoster"/>
+			<subTab href="guild-stats.php" id="guildStats" key="armory.tabs.guildStats"/>
+			<subTab href="guild-bank-contents.php" id="guildBankContents" key="armory.tabs.guildBankContents" login="true"/>
+			<subTab href="guild-bank-log.php" id="guildBankLog" key="armory.tabs.guildBankLog" login="true"/>
+		</tab>
+	</tabGroup>
+	<tabGroup id="guild">
+		<tab href="guild-info.php" id="guild" key="armory.tabs.guild">
+			<subTab href="guild-info.php" id="guildRoster" key="armory.labels.header.guild-roster"/>
+			<subTab href="guild-stats.php" id="guildStats" key="armory.labels.header.guild-stats"/>
+			<subTab href="guild-bank-contents.php" id="guildBankContents" key="armory.labels.header.bankcontents" login="true"/>
+			<subTab href="guild-bank-log.php" id="guildBankLog" key="armory.labels.header.banklog" login="true"/>
+		</tab>
+	</tabGroup>
+	<tabGroup id="arenaTeam">
+		<tab href="team-info.php" id="teamInfo" key="armory.arenatab.teamprofile"/>
+		<tab href="arena-team-game-chart.php" id="matchHistory" key="armory.arenatab.matchhistory">
+			<exclude region="CN"/>
+		</tab>
+		<tab href="arena-team-report-opposing-teams.php" id="opponentHistory" key="armory.arenatab.opponenthistory">
+			<exclude region="CN"/>
+		</tab>
+	</tabGroup>
+	<tabGroup id="dungeons_and_factions">
+		<tab href="factions.php" id="factions" key="armory.tabs.factions">
+			<subTab href="factions.php" id="classic" key="armory.tabs.classic"/>
+			<subTab href="factions0.php" id="bc" key="armory.tabs.bc"/>
+			<subTab href="factions1.php" id="wotlk" key="armory.tabs.wotlk"/>
+		</tab>
+		<tab href="dungeons.php" id="dungeons" key="armory.tabs.dungeons">
+			<subTab href="dungeons.php" id="classic" key="armory.tabs.classic"/>
+			<subTab href="dungeons0.php" id="bc" key="armory.tabs.bc"/>
+			<subTab href="dungeons1.php" id="wotlk" key="armory.tabs.wotlk"/>		
+		</tab>	
+	</tabGroup>	
+	<tabGroup id="arenaLadder">
+		<tab href="battlegroups.php" id="2v2" key="armory.arenatab.2v2-arena-ladder"/>
+		<tab href="battlegroups.php" id="3v3" key="armory.arenatab.3v3-arena-ladder"/>
+		<tab href="battlegroups.php" id="5v5" key="armory.arenatab.5v5-arena-ladder"/>
+	</tabGroup>
+	<tabGroup id="tools">
+		<tab href="talent-calc.php" id="talentCalculator" key="armory.tabs.talentcalc">
+			<subTab href="talent-calc.php?c=Death+Knight" id="6" key="armory.tabs.class.6"/>
+			<subTab href="talent-calc.php?c=Druid" id="11" key="armory.tabs.class.11"/>
+			<subTab href="talent-calc.php?c=Hunter" id="3" key="armory.tabs.class.3"/>
+			<subTab href="talent-calc.php?c=Mage" id="8" key="armory.tabs.class.8"/>
+			<subTab href="talent-calc.php?c=Paladin" id="2" key="armory.tabs.class.2"/>
+			<subTab href="talent-calc.php?c=Priest" id="5" key="armory.tabs.class.5"/>
+			<subTab href="talent-calc.php?c=Rogue" id="4" key="armory.tabs.class.4"/>
+			<subTab href="talent-calc.php?c=Shaman" id="7" key="armory.tabs.class.7"/>
+			<subTab href="talent-calc.php?c=Warlock" id="9" key="armory.tabs.class.9"/>
+			<subTab href="talent-calc.php?c=Warrior" id="1" key="armory.tabs.class.1"/>
+		</tab>
+		<tab href="talent-calc.php?pid=-1" id="petTalentCalculator" key="armory.tabs.pettalentcalc">
+			<subTab href="talent-calc.php?pid=-1" id="Ferocity" key="armory.tabs.pet.ferocity" onclick="petTalentCalc.changePetTree(0); return false"/>
+			<subTab href="talent-calc.php?pid=-2" id="Tenacity" key="armory.tabs.pet.tenacity" onclick="petTalentCalc.changePetTree(1); return false"/>
+			<subTab href="talent-calc.php?pid=-3" id="Cunning" key="armory.tabs.pet.cunning" onclick="petTalentCalc.changePetTree(2); return false"/>
+		</tab>
+		<tab href="arena-calculator.php" id="arenaCalculator" key="armory.arenatab.calc"/>	
+	</tabGroup>
+    <tabGroup id="auctionHouse">
+		<tab href="#summary" id="summary" key="auction.tabs.summary" onclick="Auction.openPage('summary');"/>
+		<tab href="#search" id="search" key="auction.tabs.browseAuctions" onclick="Auction.openPage('search');"/>
+		<tab href="#bids" id="bids" key="auction.tabs.myBids" onclick="Auction.openPage('bids');"/>
+		<tab href="#auctions" id="auctions" key="auction.tabs.myAuctions" onclick="Auction.openPage('auctions');"/>
+		<tab href="#create" id="create" key="auction.tabs.createAuction" onclick="Auction.openPage('create');"/>
+	</tabGroup>
+</tabGroups>

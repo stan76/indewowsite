@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/em-mangosweb/!svn/ver/24/install/sql
+END
+characters_temp.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/em-mangosweb/!svn/ver/23/install/sql/characters_temp.sql
+END
+full_install.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/em-mangosweb/!svn/ver/24/install/sql/full_install.sql
+END
+full_install_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-mangosweb/!svn/ver/23/install/sql/full_install_2.sql
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/em-mangosweb/!svn/ver/23/install/sql/index.html
+END

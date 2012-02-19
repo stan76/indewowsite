@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/em-mangosweb/!svn/ver/23/core/mail
+END
+func.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/em-mangosweb/!svn/ver/23/core/mail/func.php
+END
+pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/em-mangosweb/!svn/ver/23/core/mail/pop3.php
+END
+smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/em-mangosweb/!svn/ver/23/core/mail/smtp.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/em-mangosweb/!svn/ver/23/core/mail/index.html
+END
+mime.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/em-mangosweb/!svn/ver/23/core/mail/mime.php
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/em-mangosweb/!svn/ver/23/components/admin/chartools
+END
+tabs.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/em-mangosweb/!svn/ver/23/components/admin/chartools/tabs.php
+END
+clean_after_delete.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/em-mangosweb/!svn/ver/23/components/admin/chartools/clean_after_delete.sql
+END
+functionstransfer.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/23/components/admin/chartools/functionstransfer.php
+END
+functionsrename.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/23/components/admin/chartools/functionsrename.php
+END
+charconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/23/components/admin/chartools/charconfig.php
+END
+missingcheck.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/em-mangosweb/!svn/ver/23/components/admin/chartools/missingcheck.php
+END
+add.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/em-mangosweb/!svn/ver/23/components/admin/chartools/add.php
+END

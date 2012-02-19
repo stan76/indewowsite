@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/em-armory/!svn/ver/19/_layout/arena
+END
+battlegroups.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-armory/!svn/ver/19/_layout/arena/battlegroups.xsl
+END
+ladder.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/em-armory/!svn/ver/19/_layout/arena/ladder.xsl
+END
+arena-game.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/em-armory/!svn/ver/19/_layout/arena/arena-game.xsl
+END
+team-statistics.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/em-armory/!svn/ver/19/_layout/arena/team-statistics.xsl
+END
+team-info.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/em-armory/!svn/ver/19/_layout/arena/team-info.xsl
+END
+arenareport-graph.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/em-armory/!svn/ver/19/_layout/arena/arenareport-graph.xsl
+END
+opposing-teams.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-armory/!svn/ver/19/_layout/arena/opposing-teams.xsl
+END
+header.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/em-armory/!svn/ver/19/_layout/arena/header.xsl
+END

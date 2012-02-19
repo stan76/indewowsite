@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class
+END
+AJAXChatEncoding.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatEncoding.php
+END
+AJAXChatHTTPHeader.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatHTTPHeader.php
+END
+AJAXChatMySQLDataBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatMySQLDataBase.php
+END
+CustomAJAXChatInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/CustomAJAXChatInterface.php
+END
+AJAXChatMySQLQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatMySQLQuery.php
+END
+AJAXChatMySQLiDataBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatMySQLiDataBase.php
+END
+AJAXChatMySQLiQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatMySQLiQuery.php
+END
+AJAXChatDataBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatDataBase.php
+END
+CustomAJAXChatShoutBox.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/CustomAJAXChatShoutBox.php
+END
+AJAXChatString.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatString.php
+END
+CustomAJAXChat.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/CustomAJAXChat.php
+END
+AJAXChatTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatTemplate.php
+END
+AJAXChat.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChat.php
+END
+AJAXChatLanguage.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatLanguage.php
+END
+AJAXChatFileSystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/em-mangosweb/!svn/ver/23/components/chat/lib/class/AJAXChatFileSystem.php
+END

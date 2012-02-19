@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp
+END
+ucp_register.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_register.php
+END
+ucp_main.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_main.php
+END
+ucp_pm_options.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_pm_options.php
+END
+ucp_confirm.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_confirm.php
+END
+ucp_profile.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_profile.php
+END
+ucp_activate.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_activate.php
+END
+ucp_pm_compose.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_pm_compose.php
+END
+ucp_pm_viewfolder.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_pm_viewfolder.php
+END
+ucp_zebra.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_zebra.php
+END
+ucp_pm_viewmessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_pm_viewmessage.php
+END
+ucp_attachments.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_attachments.php
+END
+ucp_pm.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_pm.php
+END
+ucp_remind.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_remind.php
+END
+ucp_prefs.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_prefs.php
+END
+ucp_groups.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_groups.php
+END
+ucp_resend.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/em-mangosweb/!svn/ver/26/forum/includes/ucp/ucp_resend.php
+END

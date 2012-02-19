@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/em-mangosweb/!svn/ver/26/config
+END
+config-protected.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-mangosweb/!svn/ver/23/config/config-protected.php
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/em-mangosweb/!svn/ver/24/config/config.xml
+END
+config_protected.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-mangosweb/!svn/ver/26/config/config_protected.php
+END
+config_mangosweb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/em-mangosweb/!svn/ver/26/config/config_mangosweb.xml
+END
+config_map.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/em-mangosweb/!svn/ver/26/config/config_map.php
+END
+config_vote.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/em-mangosweb/!svn/ver/26/config/config_vote.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/em-mangosweb/!svn/ver/23/config/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/em-mangosweb/!svn/ver/23/config/index.php
+END

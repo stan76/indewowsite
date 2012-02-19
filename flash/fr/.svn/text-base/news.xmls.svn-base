@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="yes" ?>
+<movie>		   
+	<featured>
+		<item title="icc.swf" link="/" />
+		<item title="icc.swf" link="/" />
+	</featured>
+    <strings next="&gt;" back="&lt;" waittime="450">
+</movie>		

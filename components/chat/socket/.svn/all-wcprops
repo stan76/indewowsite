@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/em-mangosweb/!svn/ver/23/components/chat/socket
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/em-mangosweb/!svn/ver/23/components/chat/socket/server
+END
+server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/em-mangosweb/!svn/ver/23/components/chat/socket/server.rb
+END
+server.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/em-mangosweb/!svn/ver/23/components/chat/socket/server.conf
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/em-mangosweb/!svn/ver/23/components/chat/socket/.htaccess
+END

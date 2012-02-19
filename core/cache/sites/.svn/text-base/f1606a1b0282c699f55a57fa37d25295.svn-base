@@ -1,0 +1,100 @@
+<style media="screen" title="currentStyle" type="text/css">
+    @import "templates/wrath/css/master.css";
+    @import "templates/wrath/css/forums.css";
+.Style1 {
+	color: #666666;
+	font-weight: bold;
+}
+</style>
+<img src="templates/wrath/images/forum_head.jpg" border="0" width="100%" />
+<br/>
+<div id="search">   
+    </div>
+<table cellspacing="0" cellpadding="1" border="0" width="100%" class="board-clear" >
+<tr>
+<td class="tableoutline">
+    <table cellspacing="0" cellpadding="0" border="0" width="100%" class="tableoutline">
+    <tr>
+    <td>
+        <div class="theader">
+        <div class="lpage">
+        <span>
+        <table cellpadding="0" cellspacing="0" border="0" >
+        <tr>
+            <td style="padding-left:5px;padding-top:3px;">
+                <small><b>Pages: 1</b></small>
+            </td>
+        </tr>
+        </table>
+        </span>
+        </div>
+        </div>
+        
+        <div id="postbackground">
+        <div class="right"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="tableoutline" style="margin: 1 auto;">
+            <tr>
+                <td width="40" height class="tableheader" style="text-align: center;"><img src="templates/wrath/images/flag.gif" border="0" width="18" height="13"alt="forum-flag" title="Flags" /></td>
+                <td width="326" class="tableheader"> <img src="templates/wrath/images/pixel.gif" border="0" width="1" height="22" alt="" align="absmiddle" /> <span class="afilter">Sujet</span></td>
+                <td width="69" align="center" class="tableheader"><span class="afilter">Auteur</span></td>
+                <td width="69" align="center" class="tableheader"><span class="afilter">R&eacute;ponses</span></td>
+                <td width="48" align="center" class="tableheader"><div align="center"><span class="afilter">Vues</span></div></td>
+                <td width="216" align="center" class="tableheader"><span class="afilter">Derni&egrave;re r&eacute;ponse</span></td>
+            </tr>
+                        </table>
+        </div>
+        </div>    
+        
+        <div class="theader">
+        <div class="lpage">
+        <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td style="padding-left:5px;padding-top:3px;">
+                <small><b>Pages: 1</b></small>
+            </td>
+        </tr>
+        </table>
+		
+        </div>
+        </div>
+        <div class="tbottom"></div>
+        <div style="position: relative; width: 100%;">
+        <div style="position: absolute; right: 20px; top: -38px;"></div></div>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+</table>
+
+<div style="padding: 10px;" align="center">
+<table id="iconLegend" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td>
+<table class="tb2" border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td>
+<small><div align="left">L&eacute;gende:</div></small>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<br />
+  <table id="iconLegend" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr>
+    <td>
+  <table class="tb2" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody>	<tr>
+    <td><img src="templates/wrath/images/square-new.gif" style="margin: 0pt 3px 0pt 2px;" alt="New Post" border="0"><font color=red>&nbsp;Nouveau message&nbsp;</font></td>
+    <td><img src="templates/wrath/images/square.gif" style="margin: 0pt 3px 0pt 2px;" alt="Unviewed Post" border="0"><font color=blue>&nbsp;Il n'y a pas de nouveau message&nbsp;</font></td>
+    <td><img src="templates/wrath/images/square-grey.gif" alt="Viewed Post" border="0"><font color=grey>&nbsp;Aucun message&nbsp;</font></td>
+      </tr>
+  </tbody></table>
+
+</tbody></table>
+</div>
